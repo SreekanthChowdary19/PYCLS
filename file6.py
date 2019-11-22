@@ -23,6 +23,7 @@ def main():
     count = count_words(resp)
     return count
 
-print(main())
+if __name__ == "__main__":
+    print(main())
 
 
