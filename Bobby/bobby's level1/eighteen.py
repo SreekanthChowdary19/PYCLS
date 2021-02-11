@@ -1,5 +1,5 @@
 #write a program create a random list of length
-#10 print all the elements exvept the elements which are divisible by 4
+#10 print all the elements except the elements which are divisible by 4
 y=[]
 x=[]
 for i in range(10):
