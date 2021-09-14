@@ -1,0 +1,13 @@
+What is Python
+
+Python is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.
+
+Python can be used for things like:
+
+Back end (or server-side) web and mobile app development
+Desktop app and software development
+Processing big data and performing mathematical computations
+Writing system scripts (creating instructions that tell a computer system to “do” something)
+But don’t let Python’s broad range scare you. Just like those more familiar-sounding languages, Python is an easy to learn, in-demand programming language that can exponentially increase your chances of getting hired and income in a matter of months.
+
+If you want to learn python with step by step you can follow Programming Hero apps for full python programming course
